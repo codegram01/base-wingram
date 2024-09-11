@@ -143,6 +143,7 @@ nav {
   flex-flow: column;
   justify-content: center;
   align-items: center;
+  margin-top: 24px;
 }
 .branch > img {
   width: 200px;
