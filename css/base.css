@@ -180,8 +180,7 @@ main {
 /* action */
 button,
 .btn,
-input[type="text"],
-input[type="search"],
+input,
 textarea {
   padding: 6px 12px;
   font-size: var(--font-size-normal);
@@ -215,8 +214,7 @@ button:hover,
   background: var(--c-black-5);
 }
 
-input[type="text"],
-input[type="search"],
+input,
 textarea {
   border: var(--border);
   background: var(--color-background-input);
@@ -241,8 +239,7 @@ nav > .action {
 }
 nav button,
 nav .btn,
-nav input[type="text"],
-nav input[type="search"] {
+nav input {
   padding: 4px 12px;
   font-size: var(--font-size-min);
 }
