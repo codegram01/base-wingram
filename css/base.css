@@ -337,6 +337,10 @@ label + textarea {
   margin-top: 0px;
   text-align: center;
 }
+/* other */
+img {
+  max-width: 100%;
+}
 
 /* shortcut */
 .center {
