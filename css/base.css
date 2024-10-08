@@ -88,6 +88,7 @@ body {
     Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   min-height: 100vh;
+  line-height: 1.5;
 }
 #root {
   width: 100%;
@@ -142,6 +143,7 @@ nav {
   justify-content: center;
   align-items: center;
   margin-top: 24px;
+  text-align: center;
 }
 .branch > img {
   width: 200px;
@@ -164,7 +166,6 @@ nav {
 main {
   flex: 100%;
   padding: 12px;
-  text-align: center;
 }
 .app {
   position: relative;
